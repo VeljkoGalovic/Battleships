@@ -3,9 +3,9 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import time
 
-driver = webdriver.Firefox()
 link = input("Unesi link ka zadatku:\n") # PRIMER: https://en.grandgames.net/ships/id186282
 
+driver = webdriver.Firefox()
 driver.get(link)  # DODAJ ULAZ
 
 time.sleep(10) # CEKANJE DA SE STRANICA UCITA
