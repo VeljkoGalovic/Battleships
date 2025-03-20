@@ -1,3 +1,5 @@
+/// PROBLEM HEURISITKE RESITI DODAVANJEM NIZA POLJA KOJI JE SORTIRAN PO REDU KOJIM SE POLJA TREBAJU POSECIVATI I RESETOVATI IH POSLE SVAKOG POKUSAJA
+
 #include<bits/stdc++.h>
 using namespace std;
 char MatricaKaraktera[100][100], KopijaMatrice[100][100], KopijaMatrice2[100][100], Resenje[100][100];
@@ -27,6 +29,11 @@ bool pos[100][100];
 /// # - VODA
 /// . - PRAZNO
 
+bool cmp(slog a, slog b)
+{
+   return a.velr < b.velr;
+   return a.velk < b.velk;
+}
 void ULAZ() /// DESPAGETIRAN
 {
    /// RESETOVANJE MATRICA RADI IZBEGAVANJA GRESAKA
@@ -388,6 +395,54 @@ bool PROVERA_KVADRATNIH_BRODOVA() /// DESPAGETIRAN
                MatricaKaraktera[i+2][j+1] = '#';
                MatricaKaraktera[i+2][j-1] = '#';
             }
+
+            /// ISTO SAMO AKO SKONTA DA JE BROD OKOLO
+            if(MatricaKaraktera[i+1][j] == 'p' or MatricaKaraktera[i-1][j] == 'p')
+            {
+               temp = 1;
+
+               MatricaKaraktera[i+1][j] = 'p';
+               MatricaKaraktera[i-1][j] = 'p';
+
+               /// AKO JE OVAJ KVADRAT VEC OBRADJEN FUNKCIJA NE TREBA DA VRATI 1
+               if(MatricaKaraktera[i][j-1] == '#' and MatricaKaraktera[i][j+1] == '#')
+                  temp = 0;
+
+
+               /// POLJA LEVO I DESNO SU VODA
+               MatricaKaraktera[i][j-1] = '#';
+               MatricaKaraktera[i][j+1] = '#';
+
+               /// UPISIVANJE VODE U OSTALA POLJA
+               MatricaKaraktera[i+2][j+1] = '#';
+               MatricaKaraktera[i+2][j-1] = '#';
+               MatricaKaraktera[i-2][j-1] = '#';
+               MatricaKaraktera[i-2][j+1] = '#';
+            }
+
+
+            if(MatricaKaraktera[i][j-1] == 'p' or MatricaKaraktera[i][j+1] == 'p')
+            {
+               temp = 1;
+
+               MatricaKaraktera[i][j+1] = 'p';
+               MatricaKaraktera[i][j-1] = 'p';
+
+               /// AKO JE OVAJ KVADRAT VEC OBRADJEN FUNKCIJA NE TREBA DA VRATI 1
+               if(MatricaKaraktera[i-1][j] == '#' and MatricaKaraktera[i+1][j] == '#')
+                  temp = 0;
+
+
+               /// POLJA GORE I DOLE SU VODA
+               MatricaKaraktera[i-1][j] = '#';
+               MatricaKaraktera[i+1][j] = '#';
+
+               /// UPISIVANJE VODE U OSTALA POLJA
+               MatricaKaraktera[i+1][j+2] = '#';
+               MatricaKaraktera[i+1][j-2] = '#';
+               MatricaKaraktera[i-1][j-2] = '#';
+               MatricaKaraktera[i-1][j+2] = '#';
+            }
          }
       }
    }
@@ -611,9 +666,6 @@ void HEURISTICNI_KVADRAT() /// NE RADI, ZNAM STA DODUSE - TEKST UNUTRA
 
    /// OBRATIM PAZNJU NA REKURZIJU POSLE SVAKOG POZIVA VREDNOST U MATRICI SE RESETUJE NA PRAZNO POLJE FALI MI IMPLEMENTACIJA TOGA JER POSLE SVIH PRVOG FILOVANJA KAKO STIGNE ON NE KRENE DA CISTI MATRICU I PROBAVA NOVE MOGUCNOSTI
 
-
-
-
    brHeuristike = 0;
    memset(Heuristika, 0, sizeof(Heuristika));
 
@@ -657,20 +709,10 @@ void HEURISTICNI_KVADRAT() /// NE RADI, ZNAM STA DODUSE - TEKST UNUTRA
       Heuristika[i].velr = min(priv1, priv2);
       Heuristika[i].velk = max(priv1, priv2);
 
-      cout << Heuristika[i].koordx << " " << Heuristika[i].koordy << " " << Heuristika[i].velr << " " << Heuristika[i].velr << "\n";
+      //cout << Heuristika[i].koordx << " " << Heuristika[i].koordy << " " << Heuristika[i].velr << " " << Heuristika[i].velr << "\n";
    }
 
-   kvadrat = 1;
-
-   for(int i=2; i<=brHeuristike; i++)
-   {
-      /// UPISI DRUGI
-      if(Heuristika[i].velr < Heuristika[kvadrat].velr)
-         kvadrat = i;
-
-      if(Heuristika[i].velr == Heuristika[kvadrat].velr and Heuristika[i].velk < Heuristika[kvadrat].velk)
-         kvadrat = i;
-   }
+   sort(Heuristika+1, Heuristika+1+brHeuristike, cmp);
 
    return;
 }
@@ -746,8 +788,6 @@ void ISPIS_RESENJA() /// DESPAGETIRAN
 
 int main()
 {
-   ios_base::sync_with_stdio(false);
-   cin.tie(NULL);
    ULAZ();
    INICIJALIZACIJA();
 
@@ -757,6 +797,8 @@ int main()
       Provera1 = UPIS_VODE();
       Provera2 = PROVERA_KVADRATNIH_BRODOVA();
       Provera3 = PROVERA_BRODOVA();
+
+      cout << Provera1 << " " << Provera2 << " " << Provera3 << "\n";
    }
 
 
@@ -764,6 +806,7 @@ int main()
    KOPIRAJ_MATRICU();
 
    // CISTO RADI TESTIRANJA
+   ISPIS_KOPIJE();
    cout << "POCETAK REKURZIJE \n";
 
    /// REKURZIJA
