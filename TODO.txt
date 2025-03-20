@@ -1,0 +1,2 @@
+https://en.grandgames.net/ships/id186284 
+U ovom zadatku se jasno vidi da ukoliko program upise dva susedna p oko njih ide vode i preko toga mozemo produbiti dubinu skeniranja i smanjiti rad rekurzije
