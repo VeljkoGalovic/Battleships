@@ -1,10 +1,9 @@
 /// PROBLEM HEURISITKE RESITI DODAVANJEM NIZA POLJA KOJI JE SORTIRAN PO REDU KOJIM SE POLJA TREBAJU POSECIVATI I RESETOVATI IH POSLE SVAKOG POKUSAJA
-
 #include<bits/stdc++.h>
 using namespace std;
 char MatricaKaraktera[100][100], KopijaMatrice[100][100], KopijaMatrice2[100][100], Resenje[100][100];
-int X, Y, Red[100], Kolona[100], br, BrBrodova;
-bool Provera1 = 1, Provera2 = 1, Provera3 = 1;
+int X, Y, Red[100], Kolona[100], br, BrBrodova, br_ispisa;
+bool Provera1 = 1, Provera2 = 1, Provera3 = 1, Provera4;
 string str;
 stack<int> stek;
 int Velicina, Jedinice, Dvojke, Trojke, Cetvorke, Brojac, brHeuristike, slobodni, priv1, priv2, kvadrat;
@@ -620,7 +619,6 @@ bool PROVERA_DIJAGONALA() /// DESPAGETIRAN
    return 1;
 }
 
-
 bool ODGOVARA() /// DESPAGETIRAN
 {
    /// AKO JE MATRICA PUNA I AKO SU SVI USLOVI ZADOVOLJENI IMAS RESENJE
@@ -632,7 +630,6 @@ bool ODGOVARA() /// DESPAGETIRAN
    }
    return 0;
 }
-
 
 bool VALIDAN_ZBIR(int a, int b) /// DESPAGETIRAN
 {
@@ -659,13 +656,22 @@ bool VALIDAN_ZBIR(int a, int b) /// DESPAGETIRAN
    return 1;
 }
 
-
-
-void HEURISTICNI_KVADRAT() /// NE RADI, ZNAM STA DODUSE - TEKST UNUTRA
+void ISPIS_RESENJA() /// DESPAGETIRAN
 {
+   cout << "\n\n\n. - voda, b - brod\n";
+   /// ISPIS
+   for(int i=1; i<=Y; i++)
+   {
+      for(int j=1; j<=X; j++)
+         cout << Resenje[i][j] << " ";
+      cout << "\n";
+   }
+}
 
+string HEURISTICNI_KVADRAT() /// NE RADI, ZNAM STA DODUSE - TEKST UNUTRA
+{
+   string str;
    /// OBRATIM PAZNJU NA REKURZIJU POSLE SVAKOG POZIVA VREDNOST U MATRICI SE RESETUJE NA PRAZNO POLJE FALI MI IMPLEMENTACIJA TOGA JER POSLE SVIH PRVOG FILOVANJA KAKO STIGNE ON NE KRENE DA CISTI MATRICU I PROBAVA NOVE MOGUCNOSTI
-
    brHeuristike = 0;
    memset(Heuristika, 0, sizeof(Heuristika));
 
@@ -712,13 +718,16 @@ void HEURISTICNI_KVADRAT() /// NE RADI, ZNAM STA DODUSE - TEKST UNUTRA
       //cout << Heuristika[i].koordx << " " << Heuristika[i].koordy << " " << Heuristika[i].velr << " " << Heuristika[i].velr << "\n";
    }
 
+
+   /// TRPAM SVE U STRING KAKO BIH MU MOGAO PRISTUPITI U REKURZIJI
    sort(Heuristika+1, Heuristika+1+brHeuristike, cmp);
-
-   return;
+   for(int i=1; i<=brHeuristike; i+=2)
+   {
+      str[i-1] = Heuristika[i].koordx + 48;
+      str[i] = Heuristika[i].koordy + 48;
+   }
+   return str;
 }
-
-
-
 
 
 void REKURZIJA(int a, int b) /// DESPAGETIRAN
@@ -732,10 +741,14 @@ void REKURZIJA(int a, int b) /// DESPAGETIRAN
    {
       /// PROVERA RESENJA - SMANJENO U JEDNU FUNKCIJU RADI CITKOSTI
       if(ODGOVARA())
+      {
          KOPIRAJ_RESENJE();
+         if(!br_ispisa)
+            ISPIS_RESENJA();
+         br_ispisa++;
+         return;
+      }
 
-
-      /// SALJE REKURZIJU DALJE
       for(int i=1; i<=Y; i++)
       {
          for(int j=1; j<=X; j++)
@@ -743,10 +756,18 @@ void REKURZIJA(int a, int b) /// DESPAGETIRAN
             if(KopijaMatrice[i][j] == '.')
             {
                REKURZIJA(i, j);
-               KopijaMatrice[i][j] = '.'; // MOZDA NE TREBA
+               KopijaMatrice[i][j] = '.';
             }
          }
       }
+
+      /// SALJE REKURZIJU DALJE
+      //string obidji = HEURISTICNI_KVADRAT();
+      //for(int i=0; i<obidji.size(); i+=2)
+      //{
+      //   REKURZIJA(obidji[i]-48, obidji[i+1]-48);
+      //   KopijaMatrice[obidji[i]-48][obidji[i+1]-48] = '.';
+      //}
    }
 
 
@@ -758,32 +779,98 @@ void REKURZIJA(int a, int b) /// DESPAGETIRAN
 
    /// PROVERA RESENJA - SMANJENO U JEDNU FUNKCIJU RADI CITKOSTI
    if(ODGOVARA())
+   {
       KOPIRAJ_RESENJE();
-
+      if(!br_ispisa)
+            ISPIS_RESENJA();
+         br_ispisa++;
+      return;
+   }
 
    /// SALJE REKURZIJU DALJE
+
    for(int i=1; i<=Y; i++)
    {
       for(int j=1; j<=X; j++)
       {
          if(KopijaMatrice[i][j] == '.')
          {
-            REKURZIJA(i, j); /// POZOVE REKURZIJU U OVOM MOMENTU AKO
+            REKURZIJA(i, j);
             KopijaMatrice[i][j] = '.';
          }
       }
    }
+
+
+   /// SALJE REKURZIJU DALJE
+   //string obidji = HEURISTICNI_KVADRAT();
+   //for(int i=0; i<obidji.size(); i+=2)
+   //{
+   //   REKURZIJA(obidji[i]-48, obidji[i+1]-48);
+   //   KopijaMatrice[obidji[i]-48][obidji[i+1]-48] = '.';
+   //}
+
 }
 
-void ISPIS_RESENJA() /// DESPAGETIRAN
+bool PROVERA_UZASTOPNOSTI() /// DESPAGETIRAN
 {
-   /// ISPIS
+   int prUzastopnosti = 0;
+   bool ret = 0;
+
+   /// AKO SE BROD POJAVLJUJE VODORAVNO ISPOD I IZNAD NJEGA IDE VODA
    for(int i=1; i<=Y; i++)
    {
       for(int j=1; j<=X; j++)
-         cout << Resenje[i][j] << " ";
-      cout << "\n";
+      {
+         if(MatricaKaraktera[i][j] != '.' and MatricaKaraktera[i][j] != '#')
+            prUzastopnosti++;
+
+         else
+         {
+            if(prUzastopnosti > 1)
+            {
+               for(int k=0; k<prUzastopnosti; k++)
+               {
+                  if(MatricaKaraktera[i-1][j-prUzastopnosti+k] != '#' or MatricaKaraktera[i+1][j-prUzastopnosti+k] != '#')
+                     ret = 1;
+
+                  MatricaKaraktera[i-1][j-prUzastopnosti+k] = '#';
+                  MatricaKaraktera[i+1][j-prUzastopnosti+k] = '#';
+               }
+            }
+            prUzastopnosti = 0;
+         }
+      }
    }
+   prUzastopnosti = 0;
+
+
+   /// AKO SE BROD POJAVLJUJE VERTIKALNO LEVO I DESNO JE VODA
+   for(int i=1; i<=Y; i++)
+   {
+      for(int j=1; j<=X; j++)
+      {
+         if(MatricaKaraktera[j][i] != '.' and MatricaKaraktera[j][i] != '#')
+            prUzastopnosti++;
+
+         else
+         {
+            if(prUzastopnosti > 1)
+            {
+               for(int k=0; k<prUzastopnosti; k++)
+               {
+                  if(MatricaKaraktera[j-prUzastopnosti+k][i+1] != '#' or MatricaKaraktera[j-prUzastopnosti+k][i-1] != '#')
+                     ret = 1;
+
+                  MatricaKaraktera[j-prUzastopnosti+k][i+1] = '#';
+                  MatricaKaraktera[j-prUzastopnosti+k][i-1] = '#';
+               }
+            }
+            prUzastopnosti = 0;
+         }
+      }
+   }
+   return ret;
 }
 
 int main()
@@ -798,7 +885,9 @@ int main()
       Provera2 = PROVERA_KVADRATNIH_BRODOVA();
       Provera3 = PROVERA_BRODOVA();
 
-      cout << Provera1 << " " << Provera2 << " " << Provera3 << "\n";
+      /// NE RADI SKROZ
+      Provera4 = 0;//PROVERA_UZASTOPNOSTI();
+      cout << Provera1 << " " << Provera2 << " " << Provera3 << " " << Provera4 << "\n";
    }
 
 
@@ -816,15 +905,21 @@ int main()
       {
          if(KopijaMatrice[i][j] == '.')
          {
-            REKURZIJA(i, j); /// DODAJ ODSECANJE
+            REKURZIJA(i, j);
             break;
+            //KopijaMatrice[i][j] = '.';
          }
       }
    }
 
-
-   /// OPIS RESENJA I MATRICA RESENJA
-   cout << "\n\n\n. - voda, b - brod\n";
-   ISPIS_RESENJA();
+   /*
+   /// SALJE REKURZIJU DALJE
+   string obidji = HEURISTICNI_KVADRAT();
+   for(int i=0; i<obidji.size(); i+=2)
+   {
+      REKURZIJA(obidji[i]-48, obidji[i+1]-48);
+      KopijaMatrice[obidji[i]-48][obidji[i+1]-48] = '.';
+   }
+   */
    return 0;
 }
