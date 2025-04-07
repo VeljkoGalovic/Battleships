@@ -1,0 +1,1 @@
+Pokreni fajl "Runner.exe"
