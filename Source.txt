@@ -1,0 +1,2401 @@
+<html lang="en" style="--vh: 9.55px;">
+ <head>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PXFKHYW93D&amp;l=dataLayer&amp;cx=c&amp;gtm=453e5421za200&amp;tag_exp=102788824~102803279~102813109~102887800~102926062~102975949~103016951~103021830~103027016" type="text/javascript">
+  </script>
+  <script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202504010101/show_ads_impl_fy2021.js">
+  </script>
+  <script>
+   StartGameTime = new Date()
+  </script>
+  <meta charset="utf-8"/>
+  <meta content="minimum-scale=1, width=device-width,initial-scale=1, user-scalable=no" name="viewport"/>
+  <title>
+   Sea Battle №186289
+  </title>
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+  <link href="/site.webmanifest" rel="manifest"/>
+  <style>
+   .OnlyMobile {
+        display: none;
+      }
+  </style>
+  <link href="https://grandgames.net/ships/id186289" hreflang="ru" rel="alternate"/>
+  <link href="https://en.grandgames.net/ships/id186289" hreflang="en" rel="alternate"/>
+  <link href="https://de.grandgames.net/ships/id186289" hreflang="de" rel="alternate"/>
+  <link href="https://ua.grandgames.net/ships/id186289" hreflang="uk" rel="alternate"/>
+  <link href="https://fr.grandgames.net/ships/id186289" hreflang="fr" rel="alternate"/>
+  <link href="https://by.grandgames.net/ships/id186289" hreflang="be" rel="alternate"/>
+  <link href="https://hr.grandgames.net/ships/id186289" hreflang="hr" rel="alternate"/>
+  <link href="https://sr.grandgames.net/ships/id186289" hreflang="sr" rel="alternate"/>
+  <link href="https://pl.grandgames.net/ships/id186289" hreflang="pl" rel="alternate"/>
+  <link href="https://pt.grandgames.net/ships/id186289" hreflang="pt" rel="alternate"/>
+  <link href="https://es.grandgames.net/ships/id186289" hreflang="es" rel="alternate"/>
+  <link href="https://jp.grandgames.net/ships/id186289" hreflang="ja" rel="alternate"/>
+  <link href="https://tr.grandgames.net/ships/id186289" hreflang="tr" rel="alternate"/>
+  <link href="https://it.grandgames.net/ships/id186289" hreflang="it" rel="alternate"/>
+  <meta content="https://en.grandgames.net/ships/id186289" property="og:url"/>
+  <link href="https://en.grandgames.net/ships/id186289" rel="canonical"/>
+  <meta content="1367d43d1987bd48" name="yandex-verification"/>
+  <meta content="Need to find the location of the ships on the map using numbers" name="description"/>
+  <meta content="Sea Battle №186289" property="og:title"/>
+  <meta content="Need to find the location of the ships on the map using numbers" property="og:description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="186289" property="gg:id"/>
+  <meta content="ag" property="gg:tbl"/>
+  <meta content="" name="keywords"/>
+  <meta content="" name="framepath"/>
+  <meta content="b56f07f087daa19a" name="mailru-verification"/>
+  <link href="https://storage.grandgames.net/ag/screen_full/ships/186289.webp" rel="image_src"/>
+  <meta content="https://storage.grandgames.net/ag/screen_full/ships/186289.webp" property="og:image"/>
+  <script>
+   LG=[];
+    LG['sure']="Are you sure?";
+    LG['realleave']="Are you sure you want to leave the page?";
+    LG['nomoney']="You do not have enough game coins !";
+    LG['onlyreg']="Only for registered users!";
+    LG['notsolved']="Puzzle has not been solved yet!";
+    LG['ostalos']="It remains to fill in:";
+    LG['rew_hint']="Do you want to watch an ad and get tips for free?";
+    LG['no_rew']="Failed to find advertisement";
+    LG['error']="Error!";
+    LG['manyrequest']="Too many requests, please try again in a minute";
+  </script>
+  <script type="text/javascript">
+   SiteName = 'https://en.grandgames.net'
+      SiteLang = 'en'
+      FallbackLang = 'en'
+      GGID = 186289;
+        StaticURL = ''
+      PUID = 0
+      UIND = 0;
+        UserLogin = ''
+      
+      RU = '/ships/id186289'
+      GlAT = 1;
+        UserNA = 0;
+        nowTheme =
+          'snow'
+      AllowPush = 1;
+        gameData = {};
+        reactData = {};
+        nextTheme =
+          'day'
+  </script>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&amp;display=swap" rel="stylesheet"/>
+  <style>
+   * {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 11pt;
+      }
+  </style>
+  <script src="/js/jquery321mdf.min.js?3">
+  </script>
+  <script src="/js/top.js?v=4777">
+  </script>
+  <script>
+   console.log('gg_showbnav')
+      AppVersion = 0;
+        SiteVersion = 4777;
+        
+        RBlock = 0;
+        FeedID = 171;
+        LastMesID = 0;
+        CurUser = 0;
+        currentURL =
+          ''
+      IsTNM = 0;
+        //if (!GGID) console.log('gg_ad_newpage');
+        
+        
+
+          
+
+      function stopError() {
+        return true
+      }
+      window.onerror = stopError
+  </script>
+  <script src="/js/gg.js?4777">
+  </script>
+  <link href="/css/ggsdk.css?4777" media="all" rel="stylesheet" type="text/css"/>
+  <script src="/js/ggsdk.js?4777">
+  </script>
+  <link href="/css/snow.css?v=4777" id="maintheme" media="all" rel="stylesheet" type="text/css"/>
+  <style>
+   .onlyapp {
+          display: none;
+      }
+  </style>
+  <script defer="" src="/js/bottom.js?4777">
+  </script>
+  <meta content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
+  <meta content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
+  <meta content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+  <meta content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+  <meta content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
+  <meta content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
+  <meta content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+  <meta content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+  <script async="" src="https://fundingchoicesmessages.google.com/i/ca-pub-5237149372351950?href=https%3A%2F%2Fen.grandgames.net%2Fships%2Fid186289&amp;ers=2">
+  </script>
+  <script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxUG1PW88szlIyg3XfOnufpFcayfykF7Hg_2YGWR8xowSU0HLWNRs8C4C0N0ZkhNGHN9w0HbZtGNXvu6EmIuASxZziIcclaW9X0rRgZNu1zzJy6TspJKv2VbIDisgZ2-sjxZ5YUHkA==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzQzOTg0MTQ4LDgxNTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly9lbi5ncmFuZGdhbWVzLm5ldC9zaGlwcy9pZDE4NjI4OSIsbnVsbCxbWzgsIlB4M0dya2IzNlIwIl0sWzksImVuLVVTIl0sWzIzLCIxNzQzOTg0MTQ4Il0sWzE5LCIyIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ">
+  </script>
+  <meta content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
+  <meta content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
+  <meta content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+  <meta content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+  <script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxXJBBOuF6IwVNwX83X1ij34u42bX07P36R5D1DHLLgvXJLfmOT-cgQzDCAiybc8hWSMn9f0bpuodV-bMP3M8zusZz9j_QIWShNsiaRXwh3erw8rMpXzp9dHzXrknl2AmaqRj3Sl1A==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzQzOTg0MTQ5LDY5MzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsNl0sbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsMV0sImh0dHBzOi8vZW4uZ3JhbmRnYW1lcy5uZXQvc2hpcHMvaWQxODYyODkiLG51bGwsW1s4LCJQeDNHcmtiMzZSMCJdLFs5LCJlbi1VUyJdLFsyMywiMTc0Mzk4NDE0OCJdLFsxOSwiMiJdLFsyNCwiIl0sWzI5LCJmYWxzZSJdXV0">
+  </script>
+  <script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxUj9XHaWf3RR-BmzNBIwMIbN87MDbd9SqwEAGSmVlWz8k4uGU_jJFz5HWoHF5ZIY6rNcAlexJpTwAMHRPRMW8GcRJtz2zS6BbPA8uzLtO24uOkSqw7sZHjHt8PAQqCYrbn_Aj3Z2w==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzQzOTg0MTQ5LDc2MTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsNiwxMF0sbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsMV0sImh0dHBzOi8vZW4uZ3JhbmRnYW1lcy5uZXQvc2hpcHMvaWQxODYyODkiLG51bGwsW1s4LCJQeDNHcmtiMzZSMCJdLFs5LCJlbi1VUyJdLFsyMywiMTc0Mzk4NDE0OCJdLFsxOSwiMiJdLFsyNCwiIl0sWzI5LCJmYWxzZSJdXV0">
+  </script>
+  <script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxXu1-13r3ht3IvT-GlKN307HrI0ZkwY0HZgbJMRd5c3V8QbJ1rkJ9WALwscd7tWw6BuOFUZRGTn31ncfqcFBa4T5SacEoTsqRWZO5Le3YFrTMo2g3I8SXb7Pnjk-lz9DzJ0SqtcaA==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzQzOTg0MTQ5LDg1NDAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsNiwxMCw5XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly9lbi5ncmFuZGdhbWVzLm5ldC9zaGlwcy9pZDE4NjI4OSIsbnVsbCxbWzgsIlB4M0dya2IzNlIwIl0sWzksImVuLVVTIl0sWzIzLCIxNzQzOTg0MTQ4Il0sWzE5LCIyIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ">
+  </script>
+ </head>
+ <body class="playmode">
+  <script>
+   const isWide = window.innerWidth < 1590 && localStorage.getItem('site-wide')
+      if (isWide === '1') {
+        UnWide = !jQuery('body').hasClass('pzdispl')
+        if (UnWide) document.body.classList.add('pzdispl')
+      }
+  </script>
+  <header id="mainheader">
+   <div id="top_header">
+    <div class="top-cont" id="head-left">
+     <img alt="Menu" class="pointer menu-contrast" id="leftmenubut" onclick="ToggleMenu();" src="/img/32/menu.png"/>
+     <div id="main-top-logo">
+      <a href="/">
+       <img alt="GrandGames" class="dark-invert" height="24" src="/img/logo_high2.png" srcset="/img/logo_high2.png 2x,
+                          /img/logo_low2.png 1x" width="178"/>
+      </a>
+     </div>
+    </div>
+    <div class="top-cont" id="head-playmode" style="display: none; column-gap: 3px">
+     <img alt="⛶" class="pointer menu-contrast" height="32" id="top_fs_but" onclick="doFullScreen();" src="/img/32/fullscreen.png" title="Full screen" width="32"/>
+     <img alt="❚❚" class="pointer menu-contrast" height="32" id="head-playmode-button" onclick="doPauseGame()" src="/img/32/pause.png" title="Pause" width="32"/>
+     <span class="agtimer bold" id="top_time" onclick="doPauseGame()" style="font-size: 12pt; cursor: pointer; margin-left: 5px">
+      00:02
+     </span>
+     <span class="bold" id="top_score" onclick="doPauseGame.pauseGame()" style="font-size: 12pt; cursor: pointer; margin-left: 5px">
+      17%
+     </span>
+     <span class="bold" id="enemy_score">
+     </span>
+    </div>
+    <div class="top-cont" id="head-middle">
+    </div>
+    <div class="top-cont" id="head-right">
+     <div id="top-icons">
+      <a class="top-info-button pointer" id="sign-button" onclick='gg.showTPL("auth")'>
+       Sign In
+      </a>
+      <div id="hidden-top-info" style="display: none">
+       <div class="top-info-button no-middle" id="top-login-text">
+       </div>
+      </div>
+      <div class="pointer" onclick="setTheme(nextTheme);" style="padding-top: 2px">
+       <svg aria-hidden="true" fill="currentColor" heigth="24" id="theme-toggle-dark-icon" viewbox="0 0 20 20" width="24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z">
+        </path>
+       </svg>
+       <svg fill="#000000" height="24" id="theme-toggle-snow-icon" viewbox="0 0 612 612" width="24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+        <g>
+         <path d="M524.932,310.535c4.132-12.144,6.406-25.141,6.406-38.666c0-66.391-54.011-120.402-120.402-120.402
+                            c-36.901,0-69.961,16.701-92.066,42.927c-14.482-3.798-29.599-5.809-45.062-5.809c-95.878,0-174.276,76.294-177.674,171.358
+                            c-1.329-0.058-2.661-0.088-3.987-0.088C41.338,359.852,0,401.193,0,452.006s41.338,92.151,92.151,92.151h370.618
+                            c68.989,0,125.115-56.124,125.115-125.112C587.884,372.673,562.508,332.144,524.932,310.535z M410.937,178.866
+                            c51.279,0,93,41.721,93,93c0,9.621-1.469,18.904-4.192,27.64c-11.689-3.625-24.108-5.582-36.973-5.582
+                            c-8.588,0-17.109,0.874-25.461,2.609c-17.745-41.582-50.372-74.08-90.277-92.14C363.707,188.593,386.201,178.866,410.937,178.866z
+                             M410.937,132.237c-7.566,0-13.701-6.132-13.701-13.701V81.544c0-7.568,6.135-13.701,13.701-13.701
+                            c7.566,0,13.701,6.132,13.701,13.701v36.992C424.637,126.104,418.502,132.237,410.937,132.237z M598.299,285.57h-36.992
+                            c-7.566,0-13.701-6.132-13.701-13.701c0-7.568,6.135-13.701,13.701-13.701h36.992c7.566,0,13.701,6.132,13.701,13.701
+                            C612,279.437,605.865,285.57,598.299,285.57z M521.855,175.114c-3.507,0-7.012-1.337-9.686-4.012
+                            c-5.352-5.352-5.352-14.027,0-19.376l26.157-26.16c5.349-5.352,14.027-5.349,19.376-0.003c5.352,5.352,5.352,14.027,0,19.376
+                            l-26.157,26.16C528.867,173.777,525.362,175.114,521.855,175.114z M298.799,175.114c-3.507,0-7.015-1.337-9.689-4.014
+                            l-26.157-26.16c-5.352-5.349-5.352-14.024,0-19.376c5.352-5.346,14.027-5.346,19.376,0.003l26.157,26.16
+                            c5.352,5.349,5.352,14.024,0,19.376C305.811,173.777,302.306,175.114,298.799,175.114z">
+         </path>
+        </g>
+       </svg>
+       <svg aria-hidden="true" fill="currentColor" heigth="24" id="theme-toggle-light-icon" viewbox="0 0 20 20" width="24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z">
+        </path>
+       </svg>
+      </div>
+      <script>
+       function changeLang(e) {
+                var lg = e.options[e.selectedIndex].value
+
+                if (lg == 'ru') {
+                  location.href = 'https://grandgames.net/ships/id186289'
+                  AppQ('setlang', 'ru')
+                } else {
+                  location.href = 'https://' + lg + '.grandgames.net/ships/id186289'
+                  AppQ('setlang', 'en')
+                }
+              }
+      </script>
+      <select class="pointer" id="lang_select" onchange="changeLang(this)" style="margin-right: 0">
+       <option selected="" title="English" value="en">
+        EN     English
+       </option>
+       <option class="pointer" title="Español" value="es">
+        ES     Español
+       </option>
+       <option class="pointer" title="Português" value="pt">
+        PT     Português
+       </option>
+       <option class="pointer" title="Беларуская" value="by">
+        BY     Беларуская
+       </option>
+       <option class="pointer" title="Українська" value="ua">
+        UA     Українська
+       </option>
+       <option class="pointer" title="Русский" value="ru">
+        RU     Русский
+       </option>
+       <option class="pointer" title="Српски" value="sr">
+        SR     Српски
+       </option>
+       <option class="pointer" title="Polski" value="pl">
+        PL     Polski
+       </option>
+       <option class="pointer" title="Hrvatski" value="hr">
+        HR     Hrvatski
+       </option>
+       <option class="pointer" title="Deutsch" value="de">
+        DE     Deutsch
+       </option>
+       <option class="pointer" title="Français" value="fr">
+        FR     Français
+       </option>
+       <option class="pointer" title="日本語" value="jp">
+        JP     日本語
+       </option>
+       <option class="pointer" title="Türkçe" value="tr">
+        TR     Türkçe
+       </option>
+       <option class="pointer" title="Italiano" value="it">
+        IT     Italiano
+       </option>
+      </select>
+     </div>
+     <div id="head-right-main-buts">
+      <img alt="⎕" class="pointer menu-contrast" height="32" id="swide_but" onclick="MakeSiteWide(undefined,true);" src="/img/32/swide.png" title="Expand" width="32"/>
+      <img alt="⍆" class="pointer top-umenu menu-contrast" height="32" id="rblock_but" onclick="ToggleRBlock();" src="/img/32/menu.png" width="32"/>
+     </div>
+    </div>
+   </div>
+  </header>
+  <img alt="X" id="fb_hider" onclick="TGFB();" src="/img/app/32/hidefp.png"/>
+  <div id="all" style="height: auto !important; min-height: 0px !important;">
+   <div id="main_panel" style="height: auto !important; min-height: 0px !important;">
+    <div id="rb_cont" style="height: auto !important; min-height: 0px !important;">
+     <div id="top_page_info">
+      <div id="h1">
+       <h1>
+        Sea Battle №186289
+       </h1>
+       <nav id="top_navigation">
+        <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+         <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+          <a href="https://en.grandgames.net/brainteasers" itemprop="item">
+           <span id="bc_elm_1" itemprop="name">
+            Brain Teasers
+           </span>
+          </a>
+          <meta content="1" itemprop="position"/>
+         </li>
+         →
+         <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+          <a href="https://en.grandgames.net/numerics" itemprop="item">
+           <span id="bc_elm_2" itemprop="name">
+            Numeric puzzles
+           </span>
+          </a>
+          <meta content="2" itemprop="position"/>
+         </li>
+         →
+         <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+          <a href="https://en.grandgames.net/ships" itemprop="item">
+           <span id="bc_elm_3" itemprop="name">
+            Sea Battle
+           </span>
+          </a>
+          <meta content="3" itemprop="position"/>
+         </li>
+         →
+         <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+          <a href="" itemprop="item">
+           <span id="bc_elm_4" itemprop="name">
+            Sea Battle №186289
+           </span>
+          </a>
+          <meta content="4" itemprop="position"/>
+         </li>
+        </ol>
+       </nav>
+      </div>
+      <div class="pad" id="top_info_vals">
+       <div class="pointer" onclick="ShowPictureWindow('/scripts/levelschart.php?rb=100&amp;id=186289&amp;md=1');" title="Complexity">
+        <img alt="2" height="14" src="https://en.grandgames.net/img/icon/filter/lev/2.png" title="Difficulty" width="42"/>
+        <small>
+         30%
+        </small>
+       </div>
+       <div>
+        <img alt="" height="16" src="/img/32/star.png" title="Rating 4.9 / 5" width="16"/>
+        4.9
+       </div>
+       <div>
+        <img alt="" height="14" src="/img/32/heart.png" title="Likes" width="14"/>
+        91
+       </div>
+       <div class="pointer" onclick="ShowAGTop('186289');" title="Times solved">
+        <img alt="" height="14" src="/img/32/solvers.png" width="14"/>
+        160
+       </div>
+       <div class="pointer" onclick="ShowAGTop('186289');" title="Speed">
+        <img alt="" src="/img/icon/time.png"/>
+        2m.37s.
+       </div>
+       <div class="pointer" onclick="LGMes('aboutdrop');" title="The ratio of the drop">
+        <img alt="" src="/img/icon/prob.png"/>
+        x1
+       </div>
+       <div>
+        <span>
+         <a href="https://en.grandgames.net/craft/info/coal" title="Coal">
+          <img alt="" height="20" src="//grandgames.net/img/craft/coal.png" width="20"/>
+          Coal
+         </a>
+        </span>
+        100%
+       </div>
+       <div title="Added">
+        <img alt="" height="14" src="/img/icon/date.png" width="14"/>
+        2020-06-15 12:35
+       </div>
+       <div>
+        <img alt="" src="/img/icon/timer.png"/>
+        <span class="agtimer" id="agtimer">
+         00:02
+        </span>
+       </div>
+      </div>
+      <div class="txt" id="mainopis" style="display: none;">
+      </div>
+     </div>
+     <script>
+      GameID=186289;
+     </script>
+     <script>
+      TCID=0;
+  GameAutoStart=false;
+  isplayag=1;
+     </script>
+     <div id="timeadd_block" style="display: none;">
+      <div id="startgame_panel">
+       <div id="sp_left" style="background-image: url(https://storage.grandgames.net/ag/screen/ships/186289.webp)">
+       </div>
+       <div id="sp_right">
+        <div class="prbut animbut" id="timeradd_but" onclick="StartAfterTimer()" style="
+          transition: all 200ms ease;
+          margin: 12px auto;
+          font-size: 20pt;
+          padding: 12px 16px;
+          min-width: 270px;
+          font-weight: bold;
+        ">
+         <img height="24" id="timeadd_img" src="/img/icon/64/success.png" style="vertical-align: middle; margin-right: 5px" width="24"/>
+         Start
+         <span id="timeadd_timer">
+         </span>
+        </div>
+        <div id="aslabeldiv">
+         <label id="auto-fullscreen-label">
+          <input autocomplete="off" id="auto-fullscreen" rel="#ggPuzzleFrameCont" type="checkbox"/>
+          Full screen
+         </label>
+        </div>
+       </div>
+      </div>
+      <script>
+       UndisOnload()
+    DecTimeAdd()
+      </script>
+     </div>
+     <div class="txt" id="playlobby">
+      <button id="big_continue_button" onclick="ggSDK.pauseGame()">
+       ▶  Continue Game
+      </button>
+      <div id="win_cont">
+       <div id="grade_cont">
+        <script>
+         function SendGrade()
+    {
+
+        if ((NowMeGrage.like!==undefined)&&(NowMeGrage.hard!==undefined)) {
+            jQuery('#yourgrade').html('<img src="/img/animation/load128.png" alt="Loading..." />');
+            jQuery.post("/actions.php",{"mode":"grade","id":GradeID,"pos":GradeKind,"islike":NowMeGrage.like,"level":NowMeGrage.hard}, function(s){
+                jQuery('#yourgrade').html(s);
+            });
+        }
+    }
+        </script>
+        <div class="center">
+         <b>
+          Congratulations!
+         </b>
+         Great job! You have successfully solved the puzzle!
+        </div>
+        <script>
+         NowMeGrage={}
+        </script>
+       </div>
+       <div id="record_cont">
+        <h2>
+         Victory! We are saving your result, please wait...
+        </h2>
+        <div class="center">
+         <img alt="⌛" src="/img/animation/load128.png"/>
+        </div>
+       </div>
+       <div class="center" id="grade_exist">
+        <img alt="👌" height="128" src="/img/128/grade_exist.png" width="128"/>
+       </div>
+       <div class="center">
+        <h2>
+         Your speed
+         <img alt="?" class="pointer" onclick="LGMes('your_speed_about');" src="/img/icon/help.png" style="vertical-align: text-top;"/>
+        </h2>
+        <div id="speed_results">
+         <div>
+          Current:
+          <span class="bold" id="speed_current">
+           ⌛
+          </span>
+         </div>
+         <div>
+          Best:
+          <span class="bold" id="speed_best">
+           ⌛
+          </span>
+         </div>
+        </div>
+        <div id="tournament_results">
+        </div>
+       </div>
+       <div class="rtxt" id="error_rec_mes" style="display: none">
+        Failed to write result, timeout exceeded. Problems with your Internet connection, or the server is overloaded. Try again.
+        <button onclick="ggSDK.winAgain()">
+         Try again
+        </button>
+       </div>
+       <div class="flex">
+        <button onclick="toggleGameMode()">
+         ▶ Back to the game
+        </button>
+        <button id="mission_but" onclick="location.href = '/missions/id' +  ggSDK.solveAnswer.mission" style="display: none">
+         <img alt="" class="but_img" src="/img/menu/missions.png"/>
+         Go to mission
+        </button>
+       </div>
+      </div>
+     </div>
+     <div class="txt" id="lobby_help_buttons" style="text-align: center">
+      <a class="button outlined" href="" id="backbut2" onclick="" style="display: none;">
+       ⏎ To the last filter
+      </a>
+      <button onclick="LGMes('shipstext');">
+       <img alt="" src="/img/icon/help.png"/>
+       Rules
+      </button>
+      <button onclick="ShowAGTop(186289);">
+       <img alt="" src="/img/32/solvers.png"/>
+       Results
+      </button>
+      <a class="button" href="/post/452084">
+       <img alt="" class="but_img" src="/img/menu/lenta.png"/>
+       Text Tutorial
+      </a>
+      <script>
+       function showCode(id) {
+            NewActions({ mode: "getEmbedCode", id: id }, function(t) {
+                ModalWindow(t.html)
+            })
+        }
+      </script>
+      <button onclick="showCode(186289);" rel="youtube">
+       <img alt="" class="but_img" src="/img/64/code.png"/>
+       Get code
+      </button>
+     </div>
+     <script>
+      var ls = localStorage.getItem('lastsearch');
+    if (ls === null) $('#backbut2').hide(); else {
+        if ($('#backbut2').length) $('#backbut2').attr('href', ls);
+    }
+     </script>
+     <div class="" id="main_game_div" style="">
+      <script>
+       addEventListener('DOMContentLoaded',function(){
+    ggSDK.embed('numberpuzzles',{id: 186289, agid: 171, agurl: 'ships', sx: 9, sy: 9, nod: 0, p1: 0, p: '.........2.......g.2.........2....f....3.........1.........4.........0.g.......2.......c.4033221423'})
+    window.addEventListener('popstate', function (e) {
+      var playLobbyElement = document.getElementById('playlobby');
+      if (window.getComputedStyle(playLobbyElement).getPropertyValue('display') === 'none') {
+        ggSDK.pauseGame()
+      }  else history.back()
+    });
+  })
+      </script>
+      <div id="ggPuzzleFrameCont">
+       <iframe id="ggPuzzleFrame" src="about:blank">
+       </iframe>
+       <div id="ggFrameButtons" style="display: flex;">
+        <button class="hideoninit" id="ggb-restart" style="display: block;" title="Restart">
+         <img src="/img/ggsdk/restart.png"/>
+        </button>
+        <button class="hideoninit no-embed" id="ggb-tip" style="display: none;" title="Hint">
+         <img src="/img/ggsdk/tip.png"/>
+        </button>
+        <button class="hideoninit" id="ggb-shuffle" style="display: none;" title="Shuffle">
+         <img src="/img/ggsdk/shuffle.png"/>
+        </button>
+        <button class="no-embed hideoninit" id="ggb-load" style="display: block;" title="Load">
+         <img src="/img/ggsdk/load.png"/>
+        </button>
+        <button class="no-embed hideoninit" id="ggb-save" style="display: block;" title="Save Alt+S">
+         <img src="/img/ggsdk/save.png"/>
+        </button>
+        <button class="hideoninit" id="ggb-settings" style="display: block;" title="Settings Alt + ~">
+         <img src="/img/ggsdk/settings.png"/>
+        </button>
+        <button class="hideoninit" id="ggb-image" style="display: none;" title="Image Alt + Q">
+         <img src="/img/ggsdk/image.png"/>
+        </button>
+        <button class="hideoninit" id="ggb-redo" style="display: block;" title="Redo">
+         <img src="/img/ggsdk/redo.png"/>
+        </button>
+        <button class="hideoninit" id="ggb-undo" style="display: block;" title="Undo">
+         <img src="/img/ggsdk/undo.png"/>
+        </button>
+        <button class="no-smart" id="ggb-fullscreen" onclick="ggSDK.fullScreen()" title="Full screen Alt + Enter">
+         <img src="/img/ggsdk/fullscreen.png"/>
+        </button>
+        <button class="no-smart no-embed" id="ggb-pause" onclick="ggSDK.pauseGame()" title="Pause">
+         <img src="/img/ggsdk/pause.png"/>
+        </button>
+        <button class="no-smart no-embed" id="ggb-togglepanel" onclick="ggSDK.togglePanel()" title="Change the position of the button bar">
+         <img src="/img/ggsdk/toggle.png"/>
+        </button>
+        <button class="hideoninit" id="ggb-minus" style="display: block;" title="Size - (Alt -)">
+         <img alt="-" src="/img/ggsdk/minus.png"/>
+        </button>
+        <button class="hideoninit" id="ggb-plus" style="display: block;" title="Size + (Alt +)">
+         <img alt="+" src="/img/ggsdk/plus.png"/>
+        </button>
+       </div>
+      </div>
+     </div>
+     <div class="lookab noplay" style="width: 100%; text-align: center;">
+      <script async="" crossorigin="anonymous" data-checked-head="true" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5237149372351950">
+      </script>
+      <!-- ggBottom -->
+      <ins class="adsbygoogle" data-ad-client="ca-pub-5237149372351950" data-ad-format="auto" data-ad-slot="7030998196" data-ad-status="unfilled" data-adsbygoogle-status="done" data-full-width-responsive="true" style="display: block; height: 280px;">
+       <div id="aswift_1_host" style="border: medium; height: 280px; width: 1030px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;">
+        <iframe allowtransparency="true" aria-label="Advertisement" data-google-container-id="a!2" data-google-query-id="CPqQm53PxIwDFXKHgwcdRycJSw" data-load-complete="true" frameborder="0" height="280" hspace="0" id="aswift_1" marginheight="0" marginwidth="0" name="aswift_1" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5237149372351950&amp;output=html&amp;h=280&amp;slotname=7030998196&amp;adk=3612600509&amp;adf=1786652822&amp;pi=t.ma~as.7030998196&amp;w=1030&amp;abgtt=6&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1743984148&amp;rafmt=1&amp;format=1030x280&amp;url=https%3A%2F%2Fen.grandgames.net%2Fships%2Fid186289&amp;fwr=0&amp;fwrattr=true&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;dt=1743984148084&amp;bpp=1&amp;bdt=907&amp;idt=392&amp;shv=r20250403&amp;mjsv=m202504010101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie_enabled=1&amp;eoidce=1&amp;prev_fmts=0x0&amp;nras=1&amp;correlator=6702225025351&amp;frm=20&amp;pv=1&amp;u_tz=120&amp;u_his=1&amp;u_h=1440&amp;u_w=2560&amp;u_ah=1440&amp;u_aw=2560&amp;u_cd=24&amp;u_sd=1&amp;adx=0&amp;ady=355&amp;biw=1280&amp;bih=955&amp;scr_x=0&amp;scr_y=0&amp;eid=95355973%2C95355975%2C31091511%2C95332924%2C95353451%2C95354563%2C95356927%2C95357455&amp;oid=2&amp;pvsid=3227847458056203&amp;tmod=152595324&amp;uas=0&amp;nvt=1&amp;fc=1920&amp;brdim=4%2C4%2C4%2C4%2C2560%2C0%2C1296%2C1048%2C1280%2C955&amp;vis=1&amp;rsz=%7C%7CopeE%7C&amp;abl=CS&amp;pfx=0&amp;fu=128&amp;bc=31&amp;bz=1.01&amp;ifi=2&amp;uci=a!2&amp;fsb=1&amp;dtd=397" style="left:0;position:absolute;top:0;border:0;width:1030px;height:280px;" tabindex="0" title="Advertisement" vspace="0" width="1030">
+        </iframe>
+       </div>
+      </ins>
+      <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+     </div>
+     <div class="recomdiv noplay" rel="recomends">
+      <h2>
+       Similar puzzles
+      </h2>
+      <div class="recomblock">
+       <div class="pm_puzzle pm_puzzle2">
+        <a class="in_prev_a" href="/ships/id186286">
+         <div class="animate-pulse" style="background-image: url(https://storage.grandgames.net/ag/screen/ships/186286.webp)" title="186286">
+         </div>
+        </a>
+        <div class="pm_in_flex pointer" onclick="ShowAGTop('186286')" style="margin: 5px 2px">
+         <div>
+          <img alt="Times solved" height="16" src="/img/32/solvers.png" title="Times solved" width="16"/>
+          99
+          <img alt="Rating" height="16" src="/img/32/star.png" title="Rating 5.0 / 5" width="16"/>
+          5.0
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/time.png" width="16"/>
+          03:30
+         </div>
+        </div>
+        <div class="pm_in_buts">
+         <img alt="" class="pm_show_buts" height="24" src="/img/64/settings.png" title="Settings" width="24"/>
+         <img alt="" height="24" onclick="agListOps(186286,'agmoveblack',this);" src="/img/64/hide.png" title="Add to black-list" width="24"/>
+        </div>
+        <div class="pm_in_flex">
+         <div class="pointer" onclick="LGMes('aboutdrop');" title="The ratio of the drop">
+          <img alt="" height="16" src="/img/icon/prob.png" width="16"/>
+          x1
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/date.png" width="16"/>
+          2020-06-15 12:35
+         </div>
+         <div>
+          <img alt="2" height="14" src="https://en.grandgames.net/img/icon/filter/lev/2.png" title="Difficulty" width="42"/>
+          <small>
+           38%
+          </small>
+         </div>
+         <div>
+          <span>
+           <a href="https://en.grandgames.net/craft/info/ore" title="Ore">
+            <img alt="" height="20" src="//grandgames.net/img/craft/ore.png" width="20"/>
+            Ore
+           </a>
+          </span>
+          100%
+         </div>
+        </div>
+       </div>
+       <div class="pm_puzzle pm_puzzle2">
+        <a class="in_prev_a" href="/ships/id186278">
+         <div class="animate-pulse" style="background-image: url(https://storage.grandgames.net/ag/screen/ships/186278.webp)" title="186278">
+         </div>
+        </a>
+        <div class="pm_in_flex pointer" onclick="ShowAGTop('186278')" style="margin: 5px 2px">
+         <div>
+          <img alt="Times solved" height="16" src="/img/32/solvers.png" title="Times solved" width="16"/>
+          150
+          <img alt="Rating" height="16" src="/img/32/star.png" title="Rating 4.9 / 5" width="16"/>
+          4.9
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/time.png" width="16"/>
+          03:03
+         </div>
+        </div>
+        <div class="pm_in_buts">
+         <img alt="" class="pm_show_buts" height="24" src="/img/64/settings.png" title="Settings" width="24"/>
+         <img alt="" height="24" onclick="agListOps(186278,'agmoveblack',this);" src="/img/64/hide.png" title="Add to black-list" width="24"/>
+        </div>
+        <div class="pm_in_flex">
+         <div class="pointer" onclick="LGMes('aboutdrop');" title="The ratio of the drop">
+          <img alt="" height="16" src="/img/icon/prob.png" width="16"/>
+          x1
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/date.png" width="16"/>
+          2020-06-15 12:28
+         </div>
+         <div>
+          <img alt="2" height="14" src="https://en.grandgames.net/img/icon/filter/lev/2.png" title="Difficulty" width="42"/>
+          <small>
+           30%
+          </small>
+         </div>
+         <div>
+          <span>
+           <a href="https://en.grandgames.net/craft/info/coal" title="Coal">
+            <img alt="" height="20" src="//grandgames.net/img/craft/coal.png" width="20"/>
+            Coal
+           </a>
+          </span>
+          100%
+         </div>
+        </div>
+       </div>
+       <div class="pm_puzzle pm_puzzle2">
+        <a class="in_prev_a" href="/ships/id186280">
+         <div class="animate-pulse" style="background-image: url(https://storage.grandgames.net/ag/screen/ships/186280.webp)" title="186280">
+         </div>
+        </a>
+        <div class="pm_in_flex pointer" onclick="ShowAGTop('186280')" style="margin: 5px 2px">
+         <div>
+          <img alt="Times solved" height="16" src="/img/32/solvers.png" title="Times solved" width="16"/>
+          134
+          <img alt="Rating" height="16" src="/img/32/star.png" title="Rating 4.8 / 5" width="16"/>
+          4.8
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/time.png" width="16"/>
+          03:02
+         </div>
+        </div>
+        <div class="pm_in_buts">
+         <img alt="" class="pm_show_buts" height="24" src="/img/64/settings.png" title="Settings" width="24"/>
+         <img alt="" height="24" onclick="agListOps(186280,'agmoveblack',this);" src="/img/64/hide.png" title="Add to black-list" width="24"/>
+        </div>
+        <div class="pm_in_flex">
+         <div class="pointer" onclick="LGMes('aboutdrop');" title="The ratio of the drop">
+          <img alt="" height="16" src="/img/icon/prob.png" width="16"/>
+          x2
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/date.png" width="16"/>
+          2020-06-15 12:28
+         </div>
+         <div>
+          <img alt="2" height="14" src="https://en.grandgames.net/img/icon/filter/lev/2.png" title="Difficulty" width="42"/>
+          <small>
+           37%
+          </small>
+         </div>
+         <div>
+          <span>
+           <a href="https://en.grandgames.net/craft/info/oresand" title="Ore Sand">
+            <img alt="" height="20" src="//grandgames.net/img/craft/oresand.png" width="20"/>
+            Ore Sand
+           </a>
+          </span>
+          100%
+         </div>
+        </div>
+       </div>
+       <div class="pm_puzzle pm_puzzle2">
+        <a class="in_prev_a" href="/ships/id186287">
+         <div class="animate-pulse" style="background-image: url(https://storage.grandgames.net/ag/screen/ships/186287.webp)" title="186287">
+         </div>
+        </a>
+        <div class="pm_in_flex pointer" onclick="ShowAGTop('186287')" style="margin: 5px 2px">
+         <div>
+          <img alt="Times solved" height="16" src="/img/32/solvers.png" title="Times solved" width="16"/>
+          33
+          <img alt="Rating" height="16" src="/img/32/star.png" title="Rating 4.7 / 5" width="16"/>
+          4.7
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/time.png" width="16"/>
+          03:44
+         </div>
+        </div>
+        <div class="pm_in_buts">
+         <img alt="" class="pm_show_buts" height="24" src="/img/64/settings.png" title="Settings" width="24"/>
+         <img alt="" height="24" onclick="agListOps(186287,'agmoveblack',this);" src="/img/64/hide.png" title="Add to black-list" width="24"/>
+        </div>
+        <div class="pm_in_flex">
+         <div class="pointer" onclick="LGMes('aboutdrop');" title="The ratio of the drop">
+          <img alt="" height="16" src="/img/icon/prob.png" width="16"/>
+          x2
+         </div>
+         <div>
+          <img alt="" height="16" src="/img/icon/date.png" width="16"/>
+          2020-06-15 12:35
+         </div>
+         <div>
+          <img alt="2" height="14" src="https://en.grandgames.net/img/icon/filter/lev/2.png" title="Difficulty" width="42"/>
+          <small>
+           42%
+          </small>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="noplay" id="ba_place">
+     </div>
+     <div class="noplay" rel="commentsg" title="Comments">
+      <div class="komments">
+      </div>
+     </div>
+     <div id="showtop" style="display: none;">
+     </div>
+     <script>
+      addCompactButton()
+            $('#coopbut').hide()
+     </script>
+    </div>
+    <footer id="footer">
+     <div id="trends">
+     </div>
+     <div class="fnavi">
+      <ul>
+       <li>
+        <a href="/copyright">
+         For copyright holders
+        </a>
+       </li>
+       <li>
+        <a href="/webmasters">
+         Webmasters
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="fnavi">
+      <ul>
+       <li>
+        <a href="/post/451494">
+         Credits
+        </a>
+       </li>
+       <li>
+        <a href="/contact">
+         Feedback
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="fnavi" id="navi2">
+      <a href="/">
+       <img alt="GrandGames" class="dark-invert" height="40" id="logo_bottom" src="https://grandgames.net/img/gglogo2.png" width="300"/>
+      </a>
+     </div>
+     <div id="footertxt">
+      <p>
+       <a href="/termsofuse">
+        Privacy policy, information on the processing of personal data and terms of use of the site
+       </a>
+      </p>
+      <p>
+       <b>
+        GrandGames
+       </b>
+       Games and puzzles online. All rights reserved. © 2011-2024.
+      </p>
+     </div>
+    </footer>
+   </div>
+   <div id="left_panel">
+    <div id="menu-logo">
+     <a href="/">
+      <img alt="GrandGames" class="dark-invert" height="24" src="/img/logo_high2.png" srcset="/img/logo_high2.png 2x,
+                          /img/logo_low2.png 1x" width="178"/>
+     </a>
+    </div>
+    <nav class="nav">
+     <ul>
+      <li class="menu_break pointer">
+       Main sections
+      </li>
+      <li id="menu_lenta">
+       <a href="/feed">
+        <img alt="-" height="16" src="/img/menu/lenta.png" width="16"/>
+        Feed
+       </a>
+      </li>
+      <li id="menu_duels">
+       <a href="/duels">
+        <img alt="-" height="16" src="/img/menu/duels.png" width="16"/>
+        Duels
+       </a>
+      </li>
+      <li id="menu_tournaments">
+       <a href="/tournaments">
+        <img alt="-" height="16" src="/img/menu/tournaments.png" width="16"/>
+        Tournaments
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/tournaments/me">
+          With me
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_missions">
+       <a href="/missions">
+        <img alt="-" height="16" src="/img/menu/missions.png" width="16"/>
+        Missions
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/missions/add">
+          Add a Mission
+         </a>
+        </li>
+        <li>
+         <a href="/missions/moder">
+          New missions
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_achievements">
+       <a href="/achievements">
+        <img alt="-" height="16" src="/img/menu/achievements.png" width="16"/>
+        Achievements
+       </a>
+      </li>
+      <li id="menu_craft">
+       <a href="/craft">
+        <img alt="-" height="16" src="/img/menu/craft.png" width="16"/>
+        Craft
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/craft/prize">
+          Daily prize
+         </a>
+        </li>
+        <li>
+         <a href="/craft/manage">
+          Item management
+         </a>
+        </li>
+        <li>
+         <a href="/craft/info">
+          Encyclopedia
+         </a>
+        </li>
+        <li>
+         <a href="/craft/market">
+          Market
+         </a>
+        </li>
+        <li>
+         <a href="/craft/market/sell">
+          Sell resources
+         </a>
+        </li>
+        <li>
+         <a href="/craft/inventory">
+          Inventory
+         </a>
+        </li>
+        <li>
+         <a href="/craft/stickers">
+          Stickers
+         </a>
+        </li>
+        <li>
+         <a href="/craft/code">
+          Activate code
+         </a>
+        </li>
+        <li>
+         <a href="/craft/sellstat">
+          Sales statistics
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_games">
+       <a href="/games">
+        <img alt="-" height="16" src="/img/menu/games.png" width="16"/>
+        Games
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/games/add">
+          Add Game
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_brainteasers">
+       <a href="/brainteasers">
+        <img alt="-" height="16" src="/img/menu/brainteasers.png" width="16"/>
+        Brain Teasers
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/brainteasers/highdrop">
+          With increased drop
+         </a>
+        </li>
+        <li>
+         <a href="/brainteasers/hardly">
+          Difficult
+         </a>
+        </li>
+        <li>
+         <a href="/brainteasers/simplest">
+          Simplest
+         </a>
+        </li>
+        <li>
+         <a href="/brainteasers/moder">
+          Brainteasers moderation
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_daily">
+       <a href="/dailypuzzles">
+        <img alt="-" height="16" src="/img/menu/daily.png" width="16"/>
+        Daily Puzzles
+       </a>
+      </li>
+      <li id="menu_arena">
+       <a href="https://arena.grandgames.net/en">
+        <img alt="-" height="16" src="/img/menu/tablegames.png" width="16"/>
+        Board Games
+       </a>
+      </li>
+      <li id="menu_puzzleonline">
+       <a href="/puzzle">
+        <img alt="-" height="16" src="/img/menu/puzzleonline.png" width="16"/>
+        Puzzles Online
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/puzzle/online">
+          Puzzle constructor
+         </a>
+        </li>
+        <li>
+         <a href="/puzzle/rand">
+          Random Jigsaw Puzzle
+         </a>
+        </li>
+        <li>
+         <a href="/puzzle/upload">
+          Add a Jigsaw Puzzle
+         </a>
+        </li>
+        <li>
+         <a href="/puzzle/moder">
+          Puzzle moderation
+         </a>
+        </li>
+        <li>
+         <a href="/puzzle/tags">
+          Tags
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/tiles">
+        <img alt="-" height="16" src="/img/menu/tiles.png" width="16"/>
+        Tile puzzles
+       </a>
+      </li>
+      <li id="menu_ag229">
+       <a href="/tiles3">
+        <img alt="-" height="16" src="/img/menu/tiles3.png" width="16"/>
+        Three Tiles
+       </a>
+      </li>
+      <li id="menu_ag280">
+       <a href="/hex3">
+        <img alt="-" height="16" src="/img/menu/hex3.png" width="16"/>
+        Hex 3
+       </a>
+      </li>
+      <li id="menu_ag96">
+       <a href="/mahjong">
+        <img alt="-" height="16" src="/img/menu/mahjong.png" width="16"/>
+        Mahjong
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/mahjong/fruit">
+          Fruit and Vegetables Mahjong
+         </a>
+        </li>
+        <li>
+         <a href="/mahjong/connect">
+          Connect
+         </a>
+        </li>
+        <li>
+         <a href="/mahjong/butterfly">
+          Butterfly
+         </a>
+        </li>
+        <li>
+         <a href="/mahjong/flags">
+          Flags
+         </a>
+        </li>
+        <li>
+         <a href="/mahjong/faces">
+          Mahjong Faces
+         </a>
+        </li>
+        <li>
+         <a href="/mahjong/animals">
+          Animals
+         </a>
+        </li>
+        <li>
+         <a href="/mahjong/flowers">
+          Flowers
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag282">
+       <a href="/hexjong">
+        <img alt="-" height="16" src="/img/menu/hexjong.png" width="16"/>
+        Hexjong
+       </a>
+      </li>
+      <li id="menu_ag222">
+       <a href="/pyramid">
+        <img alt="-" height="16" src="/img/menu/pyramid.png" width="16"/>
+        Mahjong pyramid
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/pyramid/shanghai">
+          Shanghai
+         </a>
+        </li>
+        <li>
+         <a href="/pyramid/animals">
+          Animals
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag281">
+       <a href="/hexpyramid">
+        <img alt="-" height="16" src="/img/menu/hexpyramid.png" width="16"/>
+        Pyramid Hexjong
+       </a>
+      </li>
+      <li id="menu_ag120">
+       <a href="/gravity">
+        <img alt="-" height="16" src="/img/menu/gravity.png" width="16"/>
+        Gravity Mahjong
+       </a>
+      </li>
+      <li id="menu_ag119">
+       <a href="/three">
+        <img alt="-" height="16" src="/img/menu/three.png" width="16"/>
+        Mahjong 3-in-row
+       </a>
+      </li>
+      <li id="menu_ag117">
+       <a href="/memory">
+        <img alt="-" height="16" src="/img/menu/memory.png" width="16"/>
+        Memory Game
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/assembly">
+        <img alt="-" height="16" src="/img/menu/assembly.png" width="16"/>
+        Picture puzzles
+       </a>
+      </li>
+      <li id="menu_ag276">
+       <a href="/jigsawpuzzles">
+        <img alt="-" height="16" src="/img/menu/jigsawpuzzles.png" width="16"/>
+        Jigsaw puzzles
+       </a>
+      </li>
+      <li id="menu_ag223">
+       <a href="/stickypuzzles">
+        <img alt="-" height="16" src="/img/menu/stickypuzzles.png" width="16"/>
+        Sticky Puzzles
+       </a>
+      </li>
+      <li id="menu_ag128">
+       <a href="/polipuzzles">
+        <img alt="-" height="16" src="/img/menu/polipuzzles.png" width="16"/>
+        Polyomino Puzzles
+       </a>
+      </li>
+      <li id="menu_ag175">
+       <a href="/filipuzzles">
+        <img alt="-" height="16" src="/img/menu/filipuzzles.png" width="16"/>
+        Filipino Puzzles
+       </a>
+      </li>
+      <li id="menu_ag129">
+       <a href="/puzzles">
+        <img alt="-" height="16" src="/img/menu/puzzles.png" width="16"/>
+        Classic Puzzles
+       </a>
+      </li>
+      <li id="menu_ag116">
+       <a href="/fragment">
+        <img alt="-" height="16" src="/img/menu/fragment.png" width="16"/>
+        Guess The Snippet
+       </a>
+      </li>
+      <li id="menu_ag22">
+       <a href="/belpuzzles">
+        <img alt="-" height="16" src="/img/menu/belpuzzles.png" width="16"/>
+        Belarus Puzzles
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/bel">
+          <img alt="-" height="16" src="/img/menu/bel.png" width="16"/>
+          Belpuzzles with numbers
+         </a>
+        </li>
+        <li>
+         <a href="/belpics">
+          <img alt="-" height="16" src="/img/menu/belpics.png" width="16"/>
+          Belpuzzles
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag132">
+       <a href="/jigsaw">
+        <img alt="-" height="16" src="/img/menu/jigsaw.png" width="16"/>
+        Floating Puzzles
+       </a>
+      </li>
+      <li id="menu_ag173">
+       <a href="/shiftpuzzles">
+        <img alt="-" height="16" src="/img/menu/shiftpuzzles.png" width="16"/>
+        Shifters Puzzles
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/shift">
+          <img alt="-" height="16" src="/img/menu/shift.png" width="16"/>
+          Shifters with numbers
+         </a>
+        </li>
+        <li>
+         <a href="/shiftpics">
+          <img alt="-" height="16" src="/img/menu/shiftpics.png" width="16"/>
+          Shifters without numbers
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag32">
+       <a href="/multipuzzles">
+        <img alt="-" height="16" src="/img/menu/multipuzzles.png" width="16"/>
+        Multi-Puzzles
+       </a>
+      </li>
+      <li id="menu_ag1">
+       <a href="/game15">
+        <img alt="-" height="16" src="/img/menu/game15.png" width="16"/>
+        Fifteen
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/fifteen">
+          <img alt="-" height="16" src="/img/menu/fifteen.png" width="16"/>
+          Fifteen with numbers
+         </a>
+        </li>
+        <li>
+         <a href="/fifteenpics">
+          <img alt="-" height="16" src="/img/menu/fifteenpics.png" width="16"/>
+          Fifteen without numbers
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/pixels">
+        <img alt="-" height="16" src="/img/menu/pixels.png" width="16"/>
+        Pixel puzzles
+       </a>
+      </li>
+      <li id="menu_ag47">
+       <a href="/nonograms">
+        <img alt="-" height="16" src="/img/menu/nonograms.png" width="16"/>
+        Nonograms
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/nonograms/small">
+          For beginners
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/chernobelye">
+          Black and White
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/color">
+          Multi-color
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/rebus">
+          Rebuses
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/fast">
+          Speedrun (no hints or preview available)
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/random">
+          Random Nonogram
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/new">
+          Create a Nonogram
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/moder">
+          Nonogram Moderation
+         </a>
+        </li>
+        <li>
+         <a href="/nonograms/rules">
+          How to solve?
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag131">
+       <a href="/picross">
+        <img alt="-" height="16" src="/img/menu/picross.png" width="16"/>
+        Picross
+       </a>
+      </li>
+      <li id="menu_ag208">
+       <a href="/chinapics">
+        <img alt="-" height="16" src="/img/menu/chinapics.png" width="16"/>
+        China Pics
+       </a>
+      </li>
+      <li id="menu_ag8">
+       <a href="/mosaic">
+        <img alt="-" height="16" src="/img/menu/mosaic.png" width="16"/>
+        Fill-a-Pix
+       </a>
+      </li>
+      <li id="menu_ag94">
+       <a href="/shifters">
+        <img alt="-" height="16" src="/img/menu/shifters.png" width="16"/>
+        Shifters
+       </a>
+      </li>
+      <li id="menu_ag21">
+       <a href="/belcross">
+        <img alt="-" height="16" src="/img/menu/belcross.png" width="16"/>
+        Belarus Nonograms
+       </a>
+      </li>
+      <li id="menu_ag77">
+       <a href="/filippinskie">
+        <img alt="-" height="16" src="/img/menu/filippinskie.png" width="16"/>
+        Link-a-Pix
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/graphics">
+        <img alt="-" height="16" src="/img/menu/graphics.png" width="16"/>
+        Graphic puzzles
+       </a>
+      </li>
+      <li id="menu_ag283">
+       <a href="/pearls">
+        <img alt="-" height="16" src="/img/menu/pearls.png" width="16"/>
+        Pearls
+       </a>
+      </li>
+      <li id="menu_ag277">
+       <a href="/pipes">
+        <img alt="-" height="16" src="/img/menu/pipes.png" width="16"/>
+        Pipes
+       </a>
+      </li>
+      <li id="menu_ag134">
+       <a href="/sokoban">
+        <img alt="-" height="16" src="/img/menu/sokoban.png" width="16"/>
+        Sokoban
+       </a>
+      </li>
+      <li id="menu_ag148">
+       <a href="/four">
+        <img alt="-" height="16" src="/img/menu/four.png" width="16"/>
+        Disconnect Four
+       </a>
+      </li>
+      <li id="menu_ag225">
+       <a href="/ballsort">
+        <img alt="-" height="16" src="/img/menu/ballsort.png" width="16"/>
+        Ball Sort
+       </a>
+      </li>
+      <li id="menu_ag123">
+       <a href="/polimino">
+        <img alt="-" height="16" src="/img/menu/polimino.png" width="16"/>
+        Polyomino
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/polimino/tetromino">
+          Tetromino
+         </a>
+        </li>
+        <li>
+         <a href="/polimino/pentomino">
+          Pentamino
+         </a>
+        </li>
+        <li>
+         <a href="/polimino/hexomino">
+          Hexamino
+         </a>
+        </li>
+        <li>
+         <a href="/polimino/heptomino">
+          Heptomino
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag200">
+       <a href="/findthree">
+        <img alt="-" height="16" src="/img/menu/findthree.png" width="16"/>
+        Find three
+       </a>
+      </li>
+      <li id="menu_ag204">
+       <a href="/nothree">
+        <img alt="-" height="16" src="/img/menu/nothree.png" width="16"/>
+        Separate three
+       </a>
+      </li>
+      <li id="menu_ag152">
+       <a href="/chesspuzzles">
+        <img alt="-" height="16" src="/img/menu/chesspuzzles.png" width="16"/>
+        Chess problems
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/chesspuzzles/mate1">
+          Mate in 1 move
+         </a>
+        </li>
+        <li>
+         <a href="/chesspuzzles/mate2">
+          Checkmate in 2 moves
+         </a>
+        </li>
+        <li>
+         <a href="/chesspuzzles/mate3">
+          Checkmate in 3 moves
+         </a>
+        </li>
+        <li>
+         <a href="/chesspuzzles/mate4">
+          Checkmate in 4 moves
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag149">
+       <a href="/differences">
+        <img alt="-" height="16" src="/img/menu/differences.png" width="16"/>
+        Find Differences
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/differences/add">
+          To add a puzzle
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag198">
+       <a href="/findfour">
+        <img alt="-" height="16" src="/img/menu/findfour.png" width="16"/>
+        Find four
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/math">
+        <img alt="-" height="16" src="/img/menu/math.png" width="16"/>
+        Math puzzles
+       </a>
+      </li>
+      <li id="menu_ag290">
+       <a href="/mathrax">
+        <img alt="-" height="16" src="/img/menu/mathrax.png" width="16"/>
+        Mathrax
+       </a>
+      </li>
+      <li id="menu_ag289">
+       <a href="/plusminus">
+        <img alt="-" height="16" src="/img/menu/plusminus.png" width="16"/>
+        Plus-Minus
+       </a>
+      </li>
+      <li id="menu_ag287">
+       <a href="/kenken">
+        <img alt="-" height="16" src="/img/menu/kenken.png" width="16"/>
+        KenKen
+       </a>
+      </li>
+      <li id="menu_ag288">
+       <a href="/futoshiki">
+        <img alt="-" height="16" src="/img/menu/futoshiki.png" width="16"/>
+        Futoshiki
+       </a>
+      </li>
+      <li id="menu_ag2">
+       <a href="/kakuro">
+        <img alt="-" height="16" src="/img/menu/kakuro.png" width="16"/>
+        Kakuro
+       </a>
+      </li>
+      <li id="menu_ag179">
+       <a href="/skyscrapers">
+        <img alt="-" height="16" src="/img/menu/skyscrapers.png" width="16"/>
+        Skyscrapers
+       </a>
+      </li>
+      <li id="menu_ag214">
+       <a href="/gridten">
+        <img alt="-" height="16" src="/img/menu/gridten.png" width="16"/>
+        Grid Ten
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/numerics">
+        <img alt="-" height="16" src="/img/menu/numerics.png" width="16"/>
+        Numeric puzzles
+       </a>
+      </li>
+      <li id="menu_ag286">
+       <a href="/lighthouses">
+        <img alt="-" height="16" src="/img/menu/lighthouses.png" width="16"/>
+        Lighthouses
+       </a>
+      </li>
+      <li id="menu_ag285">
+       <a href="/starlight">
+        <img alt="-" height="16" src="/img/menu/starlight.png" width="16"/>
+        Star Light
+       </a>
+      </li>
+      <li id="menu_ag284">
+       <a href="/linesweeper">
+        <img alt="-" height="16" src="/img/menu/linesweeper.png" width="16"/>
+        Linesweeper
+       </a>
+      </li>
+      <li id="menu_ag227">
+       <a href="/walls">
+        <img alt="-" height="16" src="/img/menu/walls.png" width="16"/>
+        Walls
+       </a>
+      </li>
+      <li id="menu_ag185">
+       <a href="/windrose">
+        <img alt="-" height="16" src="/img/menu/windrose.png" width="16"/>
+        Wind Rose
+       </a>
+      </li>
+      <li id="menu_ag183">
+       <a href="/bridges">
+        <img alt="-" height="16" src="/img/menu/bridges.png" width="16"/>
+        Bridges
+       </a>
+      </li>
+      <li id="menu_ag220">
+       <a href="/chinawall">
+        <img alt="-" height="16" src="/img/menu/chinawall.png" width="16"/>
+        Wall of China
+       </a>
+      </li>
+      <li id="menu_ag218">
+       <a href="/wolves">
+        <img alt="-" height="16" src="/img/menu/wolves.png" width="16"/>
+        Sheeps and Wolves
+       </a>
+      </li>
+      <li id="menu_ag210">
+       <a href="/nurikabe">
+        <img alt="-" height="16" src="/img/menu/nurikabe.png" width="16"/>
+        Nurikabe
+       </a>
+      </li>
+      <li id="menu_ag212">
+       <a href="/nurikabepairs">
+        <img alt="-" height="16" src="/img/menu/nurikabepairs.png" width="16"/>
+        Pairs Nurikabe
+       </a>
+      </li>
+      <li id="menu_ag95">
+       <a href="/lightup">
+        <img alt="-" height="16" src="/img/menu/lightup.png" width="16"/>
+        Light Up
+       </a>
+      </li>
+      <li id="menu_ag216">
+       <a href="/binairo">
+        <img alt="-" height="16" src="/img/menu/binairo.png" width="16"/>
+        Binary Puzzles
+       </a>
+      </li>
+      <li id="menu_ag206">
+       <a href="/kakurasu">
+        <img alt="-" height="16" src="/img/menu/kakurasu.png" width="16"/>
+        Kakurasu
+       </a>
+      </li>
+      <li id="menu_ag202">
+       <a href="/kuromasu">
+        <img alt="-" height="16" src="/img/menu/kuromasu.png" width="16"/>
+        Kuromasu
+       </a>
+      </li>
+      <li id="menu_ag181">
+       <a href="/arrows">
+        <img alt="-" height="16" src="/img/menu/arrows.png" width="16"/>
+        Arrows
+       </a>
+      </li>
+      <li class="expanded" id="menu_ag171">
+       <a href="/ships">
+        <img alt="-" height="16" src="/img/menu/ships.png" width="16"/>
+        Sea Battle
+       </a>
+      </li>
+      <li id="menu_ag168">
+       <a href="/clouds">
+        <img alt="-" height="16" src="/img/menu/clouds.png" width="16"/>
+        Clouds
+       </a>
+      </li>
+      <li id="menu_ag166">
+       <a href="/tents">
+        <img alt="-" height="16" src="/img/menu/tents.png" width="16"/>
+        Tents
+       </a>
+      </li>
+      <li id="menu_ag164">
+       <a href="/mines">
+        <img alt="-" height="16" src="/img/menu/mines.png" width="16"/>
+        Minesweeper
+       </a>
+      </li>
+      <li id="menu_ag7">
+       <a href="/hitori">
+        <img alt="-" height="16" src="/img/menu/hitori.png" width="16"/>
+        Hitori
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/pasjans">
+        <img alt="-" height="16" src="/img/menu/pasjans.png" width="16"/>
+        Solitaire
+       </a>
+      </li>
+      <li id="menu_ag35">
+       <a href="/spider">
+        <img alt="-" height="16" src="/img/menu/spider.png" width="16"/>
+        Spider Solitaire
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/spider1">
+          <img alt="-" height="16" src="/img/menu/spider1.png" width="16"/>
+          Spider 1 suit
+         </a>
+        </li>
+        <li>
+         <a href="/spider2">
+          <img alt="-" height="16" src="/img/menu/spider2.png" width="16"/>
+          Spider 2 suits
+         </a>
+        </li>
+        <li>
+         <a href="/spider4">
+          <img alt="-" height="16" src="/img/menu/spider4.png" width="16"/>
+          Spider 4 suits
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag36">
+       <a href="/klondike">
+        <img alt="-" height="16" src="/img/menu/klondike.png" width="16"/>
+        Klondike Solitaire
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/klondike3">
+          <img alt="-" height="16" src="/img/menu/klondike3.png" width="16"/>
+          Klondike 3 cards
+         </a>
+        </li>
+        <li>
+         <a href="/klondike1">
+          <img alt="-" height="16" src="/img/menu/klondike1.png" width="16"/>
+          Klondike 1 card
+         </a>
+        </li>
+        <li>
+         <a href="/klondikesimple">
+          <img alt="-" height="16" src="/img/menu/klondikesimple.png" width="16"/>
+          Simple Klondike
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag34">
+       <a href="/freecell">
+        <img alt="-" height="16" src="/img/menu/freecell.png" width="16"/>
+        Sollitaire Game
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/freecellsimple">
+          <img alt="-" height="16" src="/img/menu/freecellsimple.png" width="16"/>
+          FreeCell Simple
+         </a>
+        </li>
+        <li>
+         <a href="/freecellclassic">
+          <img alt="-" height="16" src="/img/menu/freecellclassic.png" width="16"/>
+          Free Cell Classic
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag42">
+       <a href="/spiderette">
+        <img alt="-" height="16" src="/img/menu/spiderette.png" width="16"/>
+        Spiderette Solitaire
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/spiderette2">
+          <img alt="-" height="16" src="/img/menu/spiderette2.png" width="16"/>
+          Spiderette 2 suits
+         </a>
+        </li>
+        <li>
+         <a href="/spiderette1">
+          <img alt="-" height="16" src="/img/menu/spiderette1.png" width="16"/>
+          Spiderette 1 suit
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag37">
+       <a href="/carpet">
+        <img alt="-" height="16" src="/img/menu/carpet.png" width="16"/>
+        Carpet Solitaire
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/carpet36">
+          <img alt="-" height="16" src="/img/menu/carpet36.png" width="16"/>
+          Carpet (36 cards)
+         </a>
+        </li>
+        <li>
+         <a href="/carpet52">
+          <img alt="-" height="16" src="/img/menu/carpet52.png" width="16"/>
+          Carpet (52 cards)
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag38">
+       <a href="/scorpion">
+        <img alt="-" height="16" src="/img/menu/scorpion.png" width="16"/>
+        Scorpion Solitaire
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/scorpionclassic">
+          <img alt="-" height="16" src="/img/menu/scorpionclassic.png" width="16"/>
+          Classic Scorpion
+         </a>
+        </li>
+        <li>
+         <a href="/scorpionsimple">
+          <img alt="-" height="16" src="/img/menu/scorpionsimple.png" width="16"/>
+          Simple Scorpion
+         </a>
+        </li>
+        <li>
+         <a href="/uksolitaire">
+          <img alt="-" height="16" src="/img/menu/uksolitaire.png" width="16"/>
+          Ukrainian Solitaire
+         </a>
+        </li>
+        <li>
+         <a href="/scorpion2">
+          <img alt="-" height="16" src="/img/menu/scorpion2.png" width="16"/>
+          Scorpion (2 suits)
+         </a>
+        </li>
+        <li>
+         <a href="/doublescorpion">
+          <img alt="-" height="16" src="/img/menu/doublescorpion.png" width="16"/>
+          Double Scorpion
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag268">
+       <a href="/yukon">
+        <img alt="-" height="16" src="/img/menu/yukon.png" width="16"/>
+        Yukon solitaire
+       </a>
+      </li>
+      <li id="menu_ag269">
+       <a href="/alaska">
+        <img alt="-" height="16" src="/img/menu/alaska.png" width="16"/>
+        Alaska Solitaire
+       </a>
+      </li>
+      <li id="menu_ag270">
+       <a href="/golfsolitaire">
+        <img alt="-" height="16" src="/img/menu/golfsolitaire.png" width="16"/>
+        Golf Solitaire
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/golfpeak">
+          <img alt="-" height="16" src="/img/menu/golfpeak.png" width="16"/>
+          Peak
+         </a>
+        </li>
+        <li>
+         <a href="/threepeaks">
+          <img alt="-" height="16" src="/img/menu/threepeaks.png" width="16"/>
+          Three Peaks
+         </a>
+        </li>
+        <li>
+         <a href="/sixpeaks">
+          <img alt="-" height="16" src="/img/menu/sixpeaks.png" width="16"/>
+          Six Peaks
+         </a>
+        </li>
+        <li>
+         <a href="/cubesolitaire">
+          <img alt="-" height="16" src="/img/menu/cubesolitaire.png" width="16"/>
+          Golf Cube
+         </a>
+        </li>
+        <li>
+         <a href="/blackhole">
+          <img alt="-" height="16" src="/img/menu/blackhole.png" width="16"/>
+          Black Hole
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/sudokus">
+        <img alt="-" height="16" src="/img/menu/sudokus.png" width="16"/>
+        Sudoku variants
+       </a>
+      </li>
+      <li id="menu_ag160">
+       <a href="/sudoku">
+        <img alt="-" height="16" src="/img/menu/sudoku.png" width="16"/>
+        Sudoku
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/sudoku/hard">
+          Hard Sudoku
+         </a>
+        </li>
+        <li>
+         <a href="/sudoku/easysudoku">
+          Easy sudoku
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag187">
+       <a href="/sudokux">
+        <img alt="-" height="16" src="/img/menu/sudokux.png" width="16"/>
+        Sudoku X
+       </a>
+      </li>
+      <li id="menu_ag189">
+       <a href="/windoku">
+        <img alt="-" height="16" src="/img/menu/windoku.png" width="16"/>
+        Windoku
+       </a>
+      </li>
+      <li id="menu_ag191">
+       <a href="/sudokukiller">
+        <img alt="-" height="16" src="/img/menu/sudokukiller.png" width="16"/>
+        Sudoku Killer
+       </a>
+      </li>
+      <li id="menu_ag193">
+       <a href="/sudokucenter">
+        <img alt="-" height="16" src="/img/menu/sudokucenter.png" width="16"/>
+        Sudoku Center
+       </a>
+      </li>
+      <li id="menu_ag195">
+       <a href="/argyle">
+        <img alt="-" height="16" src="/img/menu/argyle.png" width="16"/>
+        Argyle Sudoku
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/multisudoku">
+        <img alt="-" height="16" src="/img/menu/multisudoku.png" width="16"/>
+        Multi-sudoku
+       </a>
+      </li>
+      <li id="menu_ag12">
+       <a href="/sudoku9">
+        <img alt="-" height="16" src="/img/menu/sudoku9.png" width="16"/>
+        Classic Sudoku
+       </a>
+      </li>
+      <li id="menu_ag11">
+       <a href="/twodoku">
+        <img alt="-" height="16" src="/img/menu/twodoku.png" width="16"/>
+        Twodoku
+       </a>
+      </li>
+      <li id="menu_ag264">
+       <a href="/columndoku">
+        <img alt="-" height="16" src="/img/menu/columndoku.png" width="16"/>
+        Columndoku
+       </a>
+      </li>
+      <li id="menu_ag265">
+       <a href="/supersamurai">
+        <img alt="-" height="16" src="/img/menu/supersamurai.png" width="16"/>
+        Super Samurai
+       </a>
+      </li>
+      <li id="menu_ag13">
+       <a href="/doubledoku">
+        <img alt="-" height="16" src="/img/menu/doubledoku.png" width="16"/>
+        Doubledoku
+       </a>
+      </li>
+      <li id="menu_ag15">
+       <a href="/triplesudoku">
+        <img alt="-" height="16" src="/img/menu/triplesudoku.png" width="16"/>
+        Triple Sudoku
+       </a>
+      </li>
+      <li id="menu_ag16">
+       <a href="/sudokucross">
+        <img alt="-" height="16" src="/img/menu/sudokucross.png" width="16"/>
+        Cross Sudoku
+       </a>
+      </li>
+      <li id="menu_ag14">
+       <a href="/samurai">
+        <img alt="-" height="16" src="/img/menu/samurai.png" width="16"/>
+        Samurai Sudoku
+       </a>
+      </li>
+      <li id="menu_ag18">
+       <a href="/sohei">
+        <img alt="-" height="16" src="/img/menu/sohei.png" width="16"/>
+        Sohei Sudoku
+       </a>
+      </li>
+      <li id="menu_ag19">
+       <a href="/sudokubutterfly">
+        <img alt="-" height="16" src="/img/menu/sudokubutterfly.png" width="16"/>
+        Butterfly Sudoku
+       </a>
+      </li>
+      <li id="menu_ag20">
+       <a href="/sudokutroynik">
+        <img alt="-" height="16" src="/img/menu/sudokutroynik.png" width="16"/>
+        T-Joint Sudoku
+       </a>
+      </li>
+      <li id="menu_ag17">
+       <a href="/sudokuflower">
+        <img alt="-" height="16" src="/img/menu/sudokuflower.png" width="16"/>
+        Flower Sudoku
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/words">
+        <img alt="-" height="16" src="/img/menu/words.png" width="16"/>
+        Words puzzles
+       </a>
+      </li>
+      <li id="menu_ag58">
+       <a href="/filvordy">
+        <img alt="-" height="16" src="/img/menu/filvordy.png" width="16"/>
+        Snaking puzzles
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/filvordy/rand">
+          A random snaking puzzle
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag68">
+       <a href="/klyuchvordy">
+        <img alt="-" height="16" src="/img/menu/klyuchvordy.png" width="16"/>
+        Cipher crosswords
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/otherpuzzles">
+        <img alt="-" height="16" src="/img/menu/otherpuzzles.png" width="16"/>
+        Other games and puzzles
+       </a>
+      </li>
+      <li id="menu_ag30">
+       <a href="/raskraski">
+        <img alt="-" height="16" src="/img/menu/raskraski.png" width="16"/>
+        Coloring Pages Online
+       </a>
+       <div class="menu_expander">
+       </div>
+       <ul class="submenu">
+        <li>
+         <a href="/raskraski/add">
+          Create a Coloring Page
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="menu_ag177">
+       <a href="/maze">
+        <img alt="-" height="16" src="/img/menu/maze.png" width="16"/>
+        Maze
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       <a href="/games">
+        <img alt="-" height="16" src="/img/menu/games.png" width="16"/>
+        Games
+       </a>
+      </li>
+      <li>
+       <a href="/games/2048">
+        <img alt="-" height="16" src="/img/menu/2048.png" width="16"/>
+        2048
+       </a>
+      </li>
+      <li>
+       <a href="/games/hextris">
+        <img alt="-" height="16" src="/img/menu/hextris.png" width="16"/>
+        Hextris
+       </a>
+      </li>
+      <li>
+       <a href="/games/jewels3">
+        <img alt="-" height="16" src="/img/menu/jewels3.png" width="16"/>
+        Jewels Match 3
+       </a>
+      </li>
+      <li>
+       <a href="/games/tetris">
+        <img alt="-" height="16" src="/img/menu/tetris.png" width="16"/>
+        Tetris
+       </a>
+      </li>
+      <li class="menu_break pointer mt10">
+       Sections
+      </li>
+      <li id="menu_premium">
+       <a href="/premium">
+        <img alt="-" height="16" src="/img/menu/premium.png" width="16"/>
+        Premium account
+       </a>
+      </li>
+      <li id="menu_donate">
+       <a href="/donate">
+        <img alt="-" height="16" src="/img/menu/donate.png" width="16"/>
+        Donate
+       </a>
+      </li>
+      <li id="menu_rating">
+       <a href="/rating">
+        <img alt="-" height="16" src="/img/menu/rating.png" width="16"/>
+        Rating
+       </a>
+      </li>
+      <li id="menu_slovar">
+       <a href="/slovo">
+        <img alt="-" height="16" src="/img/menu/slovar.png" width="16"/>
+        Vocabulary
+       </a>
+      </li>
+      <li id="menu_fame">
+       <a href="/fame">
+        <img alt="-" height="16" src="/img/menu/fame.png" width="16"/>
+        Hall of Fame
+       </a>
+      </li>
+      <li id="menu_craftplanet">
+       <a href="/planet">
+        <img alt="-" height="16" src="/img/menu/craftplanet.png" width="16"/>
+        Planet Discovery
+       </a>
+      </li>
+      <li id="menu_info">
+       <a href="/info">
+        <img alt="-" height="16" src="/img/menu/info.png" width="16"/>
+        Info
+       </a>
+      </li>
+      <li id="menu_arena">
+       <a href="https://arena.grandgames.net/en">
+        <img alt="-" height="16" src="/img/menu/tablegames.png" width="16"/>
+        GrandGames Arena
+       </a>
+      </li>
+     </ul>
+     <script>
+      if ($('#menu_ag171') !== null) {
+              $('#menu_ag171').addClass('expanded')
+            }
+     </script>
+    </nav>
+   </div>
+   <div id="right_panel">
+    <nav class="nav" style="margin-bottom: 5px">
+     <h2 style="margin: 5px">
+      Fast Access
+      <img alt="✎" height="16" onclick="editFastLinks()" src="/img/icon/edit.png" width="16"/>
+     </h2>
+     <ul id="fast-links">
+      <li class="pointer" id="fast-links-add">
+       <a onclick='addFastLink("ships","Sea Battle №186289")'>
+        <img alt="" height="16" src="/img/64/favorite.png" width="16"/>
+        Add current page
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <script>
+     setTimeout(setFastLinks,0)
+    </script>
+    <div class="lookab">
+     <script async="" crossorigin="anonymous" data-checked-head="true" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5237149372351950">
+     </script>
+     <!-- ggRight240x400 -->
+     <ins class="adsbygoogle" data-ad-client="ca-pub-5237149372351950" data-ad-slot="9761103313" data-ad-status="unfilled" data-adsbygoogle-status="done" style="display:inline-block;width:240px;height:400px">
+      <div id="aswift_2_host" style="border: medium; height: 400px; width: 240px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;">
+       <iframe allowtransparency="true" aria-label="Advertisement" data-google-container-id="a!3" data-google-query-id="COTJn53PxIwDFeqHgwcdRmcb4A" data-load-complete="true" frameborder="0" height="400" hspace="0" id="aswift_2" marginheight="0" marginwidth="0" name="aswift_2" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5237149372351950&amp;output=html&amp;h=400&amp;slotname=9761103313&amp;adk=2511260160&amp;adf=3012644047&amp;pi=t.ma~as.9761103313&amp;w=240&amp;abgtt=6&amp;lmt=1743984148&amp;format=240x400&amp;url=https%3A%2F%2Fen.grandgames.net%2Fships%2Fid186289&amp;wgl=1&amp;dt=1743984148085&amp;bpp=1&amp;bdt=908&amp;idt=424&amp;shv=r20250403&amp;mjsv=m202504010101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie_enabled=1&amp;eoidce=1&amp;prev_fmts=0x0%2C1030x280&amp;nras=1&amp;correlator=6702225025351&amp;frm=20&amp;pv=1&amp;u_tz=120&amp;u_his=1&amp;u_h=1440&amp;u_w=2560&amp;u_ah=1440&amp;u_aw=2560&amp;u_cd=24&amp;u_sd=1&amp;adx=1030&amp;ady=113&amp;biw=1280&amp;bih=955&amp;scr_x=0&amp;scr_y=0&amp;eid=95355973%2C95355975%2C31091511%2C95332924%2C95353451%2C95354563%2C95356927%2C95357455&amp;oid=2&amp;pvsid=3227847458056203&amp;tmod=152595324&amp;uas=0&amp;nvt=1&amp;fc=1920&amp;brdim=4%2C4%2C4%2C4%2C2560%2C0%2C1296%2C1048%2C1280%2C955&amp;vis=1&amp;rsz=%7C%7CfeE%7C&amp;abl=CF&amp;pfx=0&amp;fu=0&amp;bc=31&amp;bz=1.01&amp;ifi=3&amp;uci=a!3&amp;fsb=1&amp;dtd=426" style="left:0;position:absolute;top:0;border:0;width:240px;height:400px;" tabindex="0" title="Advertisement" vspace="0" width="240">
+       </iframe>
+      </div>
+     </ins>
+     <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+    </div>
+    <div class="in_rignt" style="
+            padding: 5px;
+            opacity: 80%;
+            border: 1px solid #000a;
+            border-width: 1px 0;
+            font-size: 10pt;
+          ">
+     If you have found an inaccurate or erroneous translation of the website interface elements, please let us know:
+     <a href="/mail/grandgames">
+      @GrandGames
+     </a>
+    </div>
+    <div class="in_rignt">
+     <nav class="nav">
+      <ul>
+       <li class="menu_break pointer">
+        <a href="/tournaments">
+         Upcoming tournaments
+        </a>
+       </li>
+       <li>
+        <a href="/tournaments/27844">
+         <img alt="" height="16" src="/img/menu/deltaspace.png" width="16"/>
+         Delta Weekly
+        </a>
+        <small style="float: right">
+         187 min.
+        </small>
+       </li>
+       <li>
+        <a href="/tournaments/27845">
+         <img alt="" height="16" src="/img/menu/spaceraid.png" width="16"/>
+         Space Raid Weekly
+        </a>
+        <small style="float: right">
+         188 min.
+        </small>
+       </li>
+       <li>
+        <a href="/tournaments/27847">
+         <img alt="" height="16" src="/img/menu/chinapics.png" width="16"/>
+         West Coast Evening
+        </a>
+        <small style="float: right">
+         237 min.
+        </small>
+       </li>
+       <li>
+        <a href="/tournaments/27789">
+         <img alt="" height="16" src="/img/menu/grandgames.png" width="16"/>
+         Marathon
+        </a>
+        <small style="float: right">
+         378 min.
+        </small>
+       </li>
+       <li>
+        <a href="/tournaments/27791">
+         <img alt="" height="16" src="/img/menu/pixels.png" width="16"/>
+         Epic Pixels Battle
+        </a>
+        <small style="float: right">
+         465 min.
+        </small>
+       </li>
+      </ul>
+     </nav>
+     <div class="cards-list flexcenter" style="padding: 5px">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="ajaxtags" style="display: none; position: absolute">
+   <select id="ajaxtagslist" onchange="SetCurTag(this);" size="5">
+   </select>
+  </div>
+  <script src="/js/facebox/facebox.js" type="text/javascript">
+  </script>
+  <div id="wsmes" onclick="jQuery(this).hide();" style="display: none">
+   New message
+  </div>
+  <div id="fixedscroll">
+   <div id="fixedscroll_in">
+    :)
+   </div>
+  </div>
+  <div id="sucreturn" onclick="MinExp()">
+   Return to a minimized window
+  </div>
+  <div id="nfsblock">
+   <div id="nfscloser">
+    ❌
+   </div>
+   <div id="nfsin">
+   </div>
+  </div>
+  <script>
+   document.getElementById('nfsblock').addEventListener('mousedown', function (e) {
+        if (e.target.id === 'nfsblock') {
+          gg.closeModal()
+        }
+      })
+
+      document.getElementById('nfscloser').addEventListener('click', function (e) {
+        gg.closeModal()
+      })
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=Ggit W93D">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || []
+      function gtag() {
+        dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
+      gtag('config', 'G-PXFKHYW93D')
+  </script>
+  <script>
+  </script>
+  <img alt="↑" id="scrollupbut" onclick="$('html, body').animate({scrollTop: 0}, 400);" src="/img/scrollup.png" style="
+        z-index: 100;
+        display: none;
+        position: fixed;
+        top: 100vh;
+        left: 100vw;
+        margin-left: -78px;
+        margin-top: -60px;
+        cursor: pointer;
+      " title="↑"/>
+  <div id="md-box-cont">
+   <div id="md-box-inner">
+   </div>
+  </div>
+  <ins class="adsbygoogle adsbygoogle-noablate" data-ad-status="unfilled" data-adsbygoogle-status="done" style="display: none !important;">
+   <div id="aswift_0_host" style="border: medium; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;">
+    <iframe allowtransparency="true" aria-label="Advertisement" data-google-container-id="a!1" data-load-complete="true" frameborder="0" hspace="0" id="aswift_0" marginheight="0" marginwidth="0" name="aswift_0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5237149372351950&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;abgtt=6&amp;lmt=1743984148&amp;plaf=1%3A2%2C2%3A2&amp;plat=1%3A128%2C2%3A128%2C3%3A16%2C4%3A16%2C8%3A128%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fen.grandgames.net%2Fships%2Fid186289&amp;pra=5&amp;wgl=1&amp;aihb=0&amp;asro=0&amp;ailel=1~2~4~7~8~9~10~11~12~13~14~15~16~17~18~19~20~21~24~29~30~34&amp;aiael=1~2~3~4~7~8~9~10~11~12~13~14~15~16~17~18~19~20~21~24~29~30~34&amp;aicel=33~38&amp;aifxl=29_18~30_19&amp;aiixl=29_5~30_6&amp;aiapm=0.15&amp;aiapmi=0.33938&amp;aiact=0.7&amp;ailct=0.7&amp;dt=1743984148083&amp;bpp=1&amp;bdt=906&amp;idt=326&amp;shv=r20250403&amp;mjsv=m202504010101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie_enabled=1&amp;eoidce=1&amp;nras=1&amp;correlator=6702225025351&amp;frm=20&amp;pv=2&amp;u_tz=120&amp;u_his=1&amp;u_h=1440&amp;u_w=2560&amp;u_ah=1440&amp;u_aw=2560&amp;u_cd=24&amp;u_sd=1&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1280&amp;bih=955&amp;scr_x=0&amp;scr_y=0&amp;eid=95355973%2C95355975%2C31091511%2C95332924%2C95353451%2C95354563%2C95356927%2C95357455&amp;oid=2&amp;pvsid=3227847458056203&amp;tmod=152595324&amp;uas=0&amp;nvt=1&amp;fsapi=1&amp;fc=1920&amp;brdim=4%2C4%2C4%2C4%2C2560%2C0%2C1296%2C1048%2C1280%2C955&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;bz=1.01&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=336" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" tabindex="0" title="Advertisement" vspace="0">
+    </iframe>
+   </div>
+  </ins>
+  <iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;">
+  </iframe>
+  <iframe name="__tcfapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;">
+  </iframe>
+  <iframe name="__uspapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;">
+  </iframe>
+  <iframe name="__gppLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;">
+  </iframe>
+  <iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;">
+  </iframe>
+  <iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;">
+  </iframe>
+  <iframe height="0" src="https://www.google.com/recaptcha/api2/aframe" style="display: none;" width="0">
+  </iframe>
+ </body>
+ <iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20250403/r20190131/zrt_lookup_fy2021.html" style="display: none;">
+ </iframe>
+</html>
